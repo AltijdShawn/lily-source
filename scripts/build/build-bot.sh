@@ -19,7 +19,9 @@ echo "-------------------------------------------------"
 yarn install -F
 yarn add -D typescript
 
-$TSC -p ./tsconfig.json
+# REPLACE WITH:
+# $TSC -p ./tsconfig.json
+/bin/tsc -p ./tsconfig.json
 
 echo ""
 echo "Build of 'bot' is finished!;"

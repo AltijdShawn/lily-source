@@ -2,5 +2,8 @@
   "name": "@daydrm-studios/chatbot-utils",
   "version": "1.0.0",
   "main": "./dist/index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }

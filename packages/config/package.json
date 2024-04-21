@@ -5,5 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "discord.js": "^14.14.1"
+    },
+    "devDependencies": {
+        "typescript": "^5.4.5"
     }
 }
