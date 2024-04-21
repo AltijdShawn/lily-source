@@ -1,0 +1,9 @@
+{
+    "name": "@daydrm-studios/chatbot-config",
+    "version": "1.0.0",
+    "main": "./dist/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^14.14.1"
+    }
+}
